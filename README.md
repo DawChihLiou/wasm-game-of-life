@@ -6,7 +6,7 @@ This demo is bootstraped with [cargo-generate](https://github.com/ashleygwilliam
 
 ![Game of Life screen recording](./gol.gif)
 
-## About
+## About `wasm-pack`
 
 [**📚 Read this template tutorial! 📚**][template-docs]
 
@@ -47,6 +47,16 @@ wasm-pack test --headless --firefox
 ```
 wasm-pack publish
 ```
+
+### 🚀 See the `wasm-game-of-life` in Action
+
+Make sure you build first, and then run
+
+```
+cd www && npm i && npm run start
+```
+
+The dev server will be available at `localhost:8080` by default.
 
 ## 🔋 Batteries Included
 
