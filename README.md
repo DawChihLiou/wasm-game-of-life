@@ -1,21 +1,9 @@
-<div align="center">
+# Game of Life with Rust and Wasm
 
-  <h1><code>wasm-pack-template</code></h1>
+This is a sample code from the book [Rust🦀 and WebAssembly🕸](https://rustwasm.github.io/docs/book/introduction.html).
 
-  <strong>A template for kick starting a Rust and WebAssembly project using <a href="https://github.com/rustwasm/wasm-pack">wasm-pack</a>.</strong>
+This demo is bootstraped with [cargo-generate](https://github.com/ashleygwilliams/cargo-generate), [wasm-pack-template](https://github.com/rustwasm/wasm-pack-template), and [create-wasm-app](https://github.com/rustwasm/create-wasm-app).
 
-  <p>
-    <a href="https://travis-ci.org/rustwasm/wasm-pack-template"><img src="https://img.shields.io/travis/rustwasm/wasm-pack-template.svg?style=flat-square" alt="Build Status" /></a>
-  </p>
-
-  <h3>
-    <a href="https://rustwasm.github.io/docs/wasm-pack/tutorials/npm-browser-packages/index.html">Tutorial</a>
-    <span> | </span>
-    <a href="https://discordapp.com/channels/442252698964721669/443151097398296587">Chat</a>
-  </h3>
-
-  <sub>Built with 🦀🕸 by <a href="https://rustwasm.github.io/">The Rust and WebAssembly Working Group</a></sub>
-</div>
 
 ## About
 
